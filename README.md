@@ -1,6 +1,14 @@
-<div id="header" align="center">
-  <img src="https://tenor.com/ru/view/welcome-gif-25476242" width="100"/>
-</div>
+<div class="tenor-gif-embed"
+     data-postid="25476242"
+     data-share-method="host"
+     data-aspect-ratio="2.5"
+     data-width="100%">
+  <a
+     href="https://tenor.com/view/welcome-gif-25476242">Welcome GIF</a>from
+  <a href="https://tenor.com/search/welcome-gifs">Welcome GIFs</a></div>
+  <script type="text/javascript"
+          async src="https://tenor.com/embed.js">
+</script>
 
 <!--
 **NakaraT/NakaraT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
